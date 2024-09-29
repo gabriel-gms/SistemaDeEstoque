@@ -8,8 +8,20 @@ html, body {
     background-color: rgb(36,28,132);
     height: 120px;
     text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 #menu img{
     width: 500px;
+}
+
+i {
+    cursor: pointer;
+    margin: 50px 50px 0px 10px;
+    size: 100px;
+}
+
+#menu div {
+    margin: 0px 85px 0px 0px
 }

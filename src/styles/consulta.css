@@ -1,0 +1,16 @@
+#divTable {
+    display: flex;
+    justify-content: center;
+}
+
+#divTable table {
+    width: 1000px;
+    background-color: rgb(217, 217, 217);
+    border: 1px solid black;
+    margin-top: 5px;
+}
+
+#divTable table tr,td,th {
+    border: 1px solid black;
+    text-align: center;
+}
